@@ -26,7 +26,7 @@ class New_student:
     def check_minor(self):
         # if self.age<=18
         return f"you are a minor"
-    def enroll_student(self):
+    # def enroll_student(self):
 
 
     
